@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/kamil88jj/kamil88jj.github.io.git/static/css/main.c234112a.chunk.css",
-    "main.js": "/kamil88jj/kamil88jj.github.io.git/static/js/main.6a905536.chunk.js",
-    "main.js.map": "/kamil88jj/kamil88jj.github.io.git/static/js/main.6a905536.chunk.js.map",
-    "runtime-main.js": "/kamil88jj/kamil88jj.github.io.git/static/js/runtime-main.ef0b3568.js",
-    "runtime-main.js.map": "/kamil88jj/kamil88jj.github.io.git/static/js/runtime-main.ef0b3568.js.map",
-    "static/js/2.083d0118.chunk.js": "/kamil88jj/kamil88jj.github.io.git/static/js/2.083d0118.chunk.js",
-    "static/js/2.083d0118.chunk.js.map": "/kamil88jj/kamil88jj.github.io.git/static/js/2.083d0118.chunk.js.map",
-    "index.html": "/kamil88jj/kamil88jj.github.io.git/index.html",
-    "static/css/main.c234112a.chunk.css.map": "/kamil88jj/kamil88jj.github.io.git/static/css/main.c234112a.chunk.css.map",
-    "static/js/2.083d0118.chunk.js.LICENSE.txt": "/kamil88jj/kamil88jj.github.io.git/static/js/2.083d0118.chunk.js.LICENSE.txt",
-    "static/media/error.42292aa1.gif": "/kamil88jj/kamil88jj.github.io.git/static/media/error.42292aa1.gif",
-    "static/media/mjolnir.61f31e18.png": "/kamil88jj/kamil88jj.github.io.git/static/media/mjolnir.61f31e18.png",
-    "static/media/vision.067d4ae1.png": "/kamil88jj/kamil88jj.github.io.git/static/media/vision.067d4ae1.png"
+    "main.css": "/kamil88jj/kamil88jj.github.io/marvel_pj/static/css/main.c234112a.chunk.css",
+    "main.js": "/kamil88jj/kamil88jj.github.io/marvel_pj/static/js/main.6a905536.chunk.js",
+    "main.js.map": "/kamil88jj/kamil88jj.github.io/marvel_pj/static/js/main.6a905536.chunk.js.map",
+    "runtime-main.js": "/kamil88jj/kamil88jj.github.io/marvel_pj/static/js/runtime-main.174dc3d9.js",
+    "runtime-main.js.map": "/kamil88jj/kamil88jj.github.io/marvel_pj/static/js/runtime-main.174dc3d9.js.map",
+    "static/js/2.083d0118.chunk.js": "/kamil88jj/kamil88jj.github.io/marvel_pj/static/js/2.083d0118.chunk.js",
+    "static/js/2.083d0118.chunk.js.map": "/kamil88jj/kamil88jj.github.io/marvel_pj/static/js/2.083d0118.chunk.js.map",
+    "index.html": "/kamil88jj/kamil88jj.github.io/marvel_pj/index.html",
+    "static/css/main.c234112a.chunk.css.map": "/kamil88jj/kamil88jj.github.io/marvel_pj/static/css/main.c234112a.chunk.css.map",
+    "static/js/2.083d0118.chunk.js.LICENSE.txt": "/kamil88jj/kamil88jj.github.io/marvel_pj/static/js/2.083d0118.chunk.js.LICENSE.txt",
+    "static/media/error.42292aa1.gif": "/kamil88jj/kamil88jj.github.io/marvel_pj/static/media/error.42292aa1.gif",
+    "static/media/mjolnir.61f31e18.png": "/kamil88jj/kamil88jj.github.io/marvel_pj/static/media/mjolnir.61f31e18.png",
+    "static/media/vision.067d4ae1.png": "/kamil88jj/kamil88jj.github.io/marvel_pj/static/media/vision.067d4ae1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ef0b3568.js",
+    "static/js/runtime-main.174dc3d9.js",
     "static/js/2.083d0118.chunk.js",
     "static/css/main.c234112a.chunk.css",
     "static/js/main.6a905536.chunk.js"
