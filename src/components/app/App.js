@@ -13,13 +13,13 @@ const SinglePage = lazy(() => import('../pages/SinglePage'));
 
 const App = () => {
     return (
-        <Router>
+            <Router>
             <div className="app">
                 <AppHeader/>
                 <main>
                     <Suspense fallback={<Spinner/>}>
                         <Switch>
-                            <Route exact path="/marvel-cards.git">
+                            <Route exact path="/" >
                                 <MainPage/>
                             </Route>
                             <Route exact path="/comics">
